@@ -1,0 +1,27 @@
+{
+    "darksoul": [
+      {
+        "id": 1,
+        "quotes": "This is just an example. Please supply your own data.",
+        "arrayOfImages": "https://placehold.co/150x150.jpg",
+        "arrayOfComments": ["Replace", "this", "data"],
+        "title" : "DSI"
+      },
+      {
+        "id": 2,
+        "quotes": "This is just an example. Please supply your own data.",
+        "arrayOfImages": "https://placehold.co/150x150.jpg",
+        "arrayOfComments": ["Replace", "this", "data"],
+        "title" : "DSII"
+      },
+      {
+        "id": 3,
+        "quotes": "This is just an example. Please supply your own data.",
+        "arrayOfImages": "https://placehold.co/150x150.jpg",
+        "arrayOfComments": ["Replace", "this", "data"],
+        "title" : "DSIII"
+      }
+     
+    ]
+    
+  }

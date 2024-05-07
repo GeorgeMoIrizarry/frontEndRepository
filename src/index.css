@@ -1,13 +1,281 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: darksoulfont;
+  src: url(../fonts/OptimusPrinceps.ttf);
+}
+#projectnav {
+  position: relative;
+}
+.heading{
+  color: antiquewhite;
+  font-family: darksoulfont;
+  text-align: center;
+  font-size: 45px; 
+}
+.text{
+  color:antiquewhite;
+  font-family: darksoulfont;
+  text-align: center;
+  font-size: 19px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html, body {
+  margin: 0;
+  padding: 0;
+}  
+#container{
+  background-image: url('./components/images/HomeWallpaper.jpeg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#root{
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#projectnav {
+  color : black;
+  animation: project 3s infinite;
+  animation-play-state: paused;
+  transition: transform 2s ease-in-out;
+  position: fixed;
+  top: 0;
+  right: -1005px;
+  z-index: 999;
+  width: 100%;
+  height: 23px;
+  font-family: darksoulfont;
+  font-weight: 800;
+  font-size: 35px;
+}
+@keyframes project {
+  50% {text-shadow: 1px 1px 2px white, 0 0 1em white, 0 0 0.2em salmon;}
+}
+#projectnav:hover {
+  animation-play-state: running
+}
+#homenav {
+  color : rgb(3, 78, 3);
+  animation: homenav 3s infinite;
+  animation-play-state: paused;
+  transition: transform 2s ease-in-out;
+  height: 50px;
+  width: 100px;
+  font-family: darksoulfont;
+  font-weight: 800;
+  font-size: 35px;
+}
+@keyframes homenav {
+  50% {text-shadow: 1px 1px 2px darkgreen, 0 0 1em lightgreen, 0 0 0.2em darkgreen;}
+}
+#homenav:hover {
+  animation-play-state: running
+}
+
+.rectangle {
+  height: 50px;
+  width: 100px;
+  font-family: darksoulfont;
+  font-weight: 800;
+  font-size: 35px;
+  
+  
+}
+#DSI {
+  color : tan;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  text-align: center;
+  animation: shadow 3s infinite;
+  animation-play-state: paused;
+  transition: transform 2s ease-in-out
+}
+@keyframes shadow {
+  50% {text-shadow: 1px 1px 2px white, 0 0 1em white, 0 0 0.2em salmon;}
+}
+#DSI:hover {
+  animation-play-state: running
+}
+
+#DSII {
+  color: aliceblue;
+  position: absolute;
+  left: 335px;
+  bottom: 8px;
+  text-align: center;
+  animation: shadowDSII 3s infinite;
+  animation-play-state: paused;
+  transition: transform 2s ease-in-out
+}
+@keyframes shadowDSII {
+  50% {text-shadow: 1px 1px 2px lightblue, 0 0 1em lightblue, 0 0 0.2em lightblue;}
+}
+#DSII:hover {
+  animation-play-state: running
+}
+#DSIII {
+  color : #ff474c;
+  position: absolute;
+  right : 16px;
+  bottom: 8px;
+  text-align: center;
+  animation: shadowDSIII 3s infinite;
+  animation-play-state: paused;
+  transition: transform 2s ease-in-out
+}
+@keyframes shadowDSIII {
+  50% {text-shadow: 1px 1px 2px firebrick, 0 0 1em darkred, 0 0 0.2em red;}
+}
+#DSIII:hover {
+  animation-play-state: running
+}
+.rectangle:active{
+  transform: translateY(4px);
+}
+#box {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-style: solid;
+  border-width: 1px;
+  width : 800px;
+  height : 500px;
+  border-radius: 10px;
+  background-color: black;
+  border-top-color: rgb(197, 123, 26);
+  border-left-color: darkkhaki;
+  border-right-color: darkkhaki;
+  border-bottom-color: darkkhaki;
+
+}
+#projects{
+  background-image : url('./components/images/projectInitialWallpaper.jpg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#card1{
+  position: absolute;
+  border-style: solid;
+  border-radius: 10px;
+  width: 220px;
+  height: 450px;
+  top: 90px;
+  left: 75px;
+}
+#card1:hover {
+  background-color: rgb(39, 38, 38);
+  opacity: 0.5;
+}
+.cardImg{
+  height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1.cardHeading{
+  color:black;
+  font-family: darksoulfont;
+  text-align: center;
+  font-weight: 900;
+  font-size: 32px;
+  text-shadow: 0 0 5px #fff;
+}
+p.cardText{
+  color: black;
+  font-family: darksoulfont;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 700;
+}
+a.projectLink{
+  color: black;
+  font-family: darksoulfont;
+  text-align: center;
+  position: absolute;
+  bottom: 20px;
+  font-size: 25px;
+}
+#card2{
+  position: absolute;
+  border-style: solid;
+  width: 220px;
+  height: 450px;
+  top: 90px;
+  left: 375px;
+  border-radius: 10px;
+}
+#card2:hover {
+  background-color: rgb(39, 38, 38);
+  opacity: 0.5;
+}
+#card3{
+  position: absolute;
+  border-style: solid;
+  width: 220px;
+  height: 450px;
+  top: 90px;
+  right: 375px;
+  border-radius: 10px;
+}
+#card3:hover {
+  background-color: rgb(39, 38, 38);
+  opacity: 0.5;
+}
+#card4{
+  position: absolute;
+  border-style: solid ;
+  width: 220px;
+  height: 450px;
+  top: 90px;
+  right: 75px;
+  border-radius: 10px;
+}
+#card4:hover {
+  background-color: rgb(39, 38, 38);
+  opacity: 0.5;
+}
+#projects1{
+  background-image : url('./components/images/SekrioWallpaper.jpg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#projects2{
+  background-image : url('./components/images/BloodborneWallpaper.jpg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#projects3{
+  background-image : url('./components/images/Elden\ Ring\ Wallpaper.jpg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+#projects4{
+  background-image : url('./components/images/DemonSoulsWallpaper.jpg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
 }
