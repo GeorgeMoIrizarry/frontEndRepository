@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
 import { NavLink } from "react-router-dom"
+import Heading from "../components/Heading"
 function DarkSoul() {
     const [dsData, setDsData] = useState({})
     const params = useParams()
@@ -14,8 +15,8 @@ function DarkSoul() {
     console.log(dsData)
     return (
         <div id="bckImg" >
+            <Heading dsData={dsData} />
             
-            <h1>{dsData.heading}</h1>
             
         </div> 
     )
