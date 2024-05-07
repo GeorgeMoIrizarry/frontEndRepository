@@ -279,3 +279,12 @@ a.projectLink{
   background-position: center;
   background-size: cover;
 }
+#bckImg{
+  background-image : url('./components/images/DarkSoulWallpaper.png');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

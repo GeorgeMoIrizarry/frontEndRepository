@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
+import { NavLink } from "react-router-dom"
 function DarkSoul() {
     const [dsData, setDsData] = useState({})
     const params = useParams()
@@ -12,8 +13,9 @@ function DarkSoul() {
     }, [dsDataId])
     console.log(dsData)
     return (
-        <div >
-            <h1></h1>
+        <div id="bckImg" >
+            
+            <h1>{dsData.heading}</h1>
             
         </div> 
     )
