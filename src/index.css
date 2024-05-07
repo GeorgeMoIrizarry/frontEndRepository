@@ -22,6 +22,7 @@ html, body {
   margin: 0;
   padding: 0;
 }  
+
 #container{
   background-image: url('./components/images/HomeWallpaper.jpeg');
   position : fixed;
@@ -319,4 +320,19 @@ a.projectLink{
 }
 #headingDS3{
   color : #ff474c;
+}
+#selector{
+  border-style: solid;
+  border-color: #fff;
+  border-radius: 10px;
+  height: 430px;
+  width: 200px;
+  position: relative;
+  top: 100px;
+  display: inline-block;
+}
+#test{
+  position:absolute;
+  
+  bottom: 10px;
 }
