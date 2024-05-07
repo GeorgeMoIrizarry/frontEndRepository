@@ -28,13 +28,15 @@ function ProjectCards( {setNum, numForBck}) {
                     <p className="cardText">As the Tanished, you will traverse the vast expanse of the Lands Between, 
                     fearlessly taking on demi gods and powerful lords in your pursuit to claim the title of Elden Lord.
                     </p>
-                    <a className="projectLink">Buy Now...</a>
+                    <a className="projectLink" href="https://store.steampowered.com/app/1245620/ELDEN_RING/">Buy Now...</a>
                 </div>
     let card4 =<div id='card4'onMouseOver={() => setNum(4)} onMouseOut={() => setNum(0)}>
                     <img src={Slayer} alt="Slayer of demons" className="cardImg"></img>
                     <h1 className="cardHeading">Demon Souls</h1>
-                    <p className="cardText">Hello</p>
-                    <a className="projectLink">Buy Now...</a>
+                    <p className="cardText">Embark through the treacherous lands of Boletaria as the hero demon slayer. 
+                    With a powerful combination of skills and weapons, 
+                    your ultimate goal is to vanquish the fallen king and restore light to the fallen kingdom.</p>
+                    <a className="projectLink" href="https://www.playstation.com/en-us/games/demons-souls/">Buy Now...</a>
                 </div>
     let c
     function handleDisplay() {
