@@ -1,22 +1,22 @@
 {
     "darksoul": [
       {
-        "id": 1,
-        "quotes": "This is just an example. Please supply your own data.",
+        "id": "DS1",
+        "heading": "Dark Souls I",
         "arrayOfImages": "https://placehold.co/150x150.jpg",
         "arrayOfComments": ["Replace", "this", "data"],
         "title" : "DSI"
       },
       {
-        "id": 2,
-        "quotes": "This is just an example. Please supply your own data.",
+        "id": "DS2",
+        "heading": "Dark Souls II",
         "arrayOfImages": "https://placehold.co/150x150.jpg",
-        "arrayOfComments": ["Replace", "this", "data"],
+        "arrayOfComments": ["do an object within this array so comments can be tied down to specific characters"],
         "title" : "DSII"
       },
       {
-        "id": 3,
-        "quotes": "This is just an example. Please supply your own data.",
+        "id": "DS3",
+        "heading": "Dark Souls III",
         "arrayOfImages": "https://placehold.co/150x150.jpg",
         "arrayOfComments": ["Replace", "this", "data"],
         "title" : "DSIII"

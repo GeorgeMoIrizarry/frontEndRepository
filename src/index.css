@@ -38,7 +38,7 @@ html, body {
   background-size: cover;
 }
 #projectnav {
-  color : black;
+  color : rgb(3, 3, 133);
   animation: project 3s infinite;
   animation-play-state: paused;
   transition: transform 2s ease-in-out;
@@ -278,4 +278,45 @@ a.projectLink{
   min-height: 100%;
   background-position: center;
   background-size: cover;
+}
+#bckImg{
+  background-image : url('./components/images/DarkSoulWallpaper.png');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#darkSoulHeadingComp{
+  position:relative;
+  height: 85px;
+}
+#darkSoulPageHeading{
+  position: absolute;
+  color:#fff;
+  text-align: center;
+  font-family: darksoulfont;
+  font-size: 60px;
+  top: 25px;
+  left: 500px;
+}
+.headingLink{
+  height: 50px;
+  width: 100px;
+  font-family: darksoulfont;
+  font-weight: 800;
+  font-size: 25px;
+  color: white;
+  padding: 5px;
+  
+}
+#headingDS1{
+  color : tan;
+}
+#headingDS2{
+  color: aliceblue;
+}
+#headingDS3{
+  color : #ff474c;
 }
