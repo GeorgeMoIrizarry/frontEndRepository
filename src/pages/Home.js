@@ -13,7 +13,7 @@ import { NavLink } from "react-router-dom"
    }, [])
    const linkBoxes = links.map((linkBox) => (
        <Link className="rectangle" key={linkBox.id} 
-       to={`/darksoul/${linkBox.id}`} id={linkBox.title}>   {linkBox.title}</Link>
+       to={`/darksoul/${linkBox.id}`} id={linkBox.title} data={linkBox}>{linkBox.title}</Link>
    ))
    return (
        <div id="container">
