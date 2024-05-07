@@ -5,16 +5,14 @@ import { NavLink } from "react-router-dom"
  
  function Home() {
    const [links, setLinks] = useState([])
-   function handleClick() {
-       console.log('hello')
-   }
+   
    useEffect(() => {
        fetch("http://localhost:8000/darksoul")
        .then((resp) => resp.json())
        .then((data) => setLinks(data))
-   })
+   }, [])
    const linkBoxes = links.map((linkBox) => (
-       <Link className="rectangle" key={linkBox.id} onClick={handleClick} 
+       <Link className="rectangle" key={linkBox.id} 
        to={`/darksoul/${linkBox.id}`} id={linkBox.title}>   {linkBox.title}</Link>
    ))
    return (
