@@ -8,61 +8,61 @@
           "chosen" : {
             "id" : "chosen",
             "name" : "The Chosen Undead",
-            "lore" : "Hello",
+            "lore" : "In ancient times, the world was under the rule of powerful dragons. They stood unopposed for a long time until the discovery of the first flame, which contained souls of great power. Four legendary figures harnessed these souls, three of which used this power to defeat the ancient dragons and ushered in the age of fire. The flame brought immense power and prosperity to kingdoms and armies. However, over time, the flame started to deplete, leaving only two choices - to let it fade away, marking the onset of the Age of Dark, or to extend the Age of Flame by sacrificing a chosen one's life. Now, it's your quest, and you have the power to make your own decision. Defeat those who hold the souls of the first flame and choose the path that aligns with your beliefs.",
             "images" : ["enter images"]
           },
           "ornstein" : {
             "id" : "ornstein",
             "name" : "Dragon Slayer Ornstein",
-            "lore" : "Hello",
+            "lore" : "Dragon Slayer Ornstein was one of Lord Gwyn's most powerful and trusted knights, renowned for his skills with the great cross spear. He played a crucial role in the war against the ancient dragons, and even as Lord Gwyn made the ultimate sacrifice to extend the age of fire, Ornstein remained steadfast in his loyalty by standing guard at his Lord's kingdom in Anor Londo.",
             "images" : ["enter images"]
           }, 
           "smough" : {
             "id" : "smough",
             "name" : "Executioner Smough",
-            "lore" : "Hello",
+            "lore" : "Smough was a powerful knight and executioner who had always dreamt of becoming one of Lord Gwyn's elite knights. Unfortunately, his grotesque pleasure in executing the kingdom's criminals led to his rejection. However, after Lord Gwyn's sacrifice, he was chosen to stand guard at Anor Londo, the kingdom of Lord Gwyn. Whether out of pity or pettiness, he now stands tall as a formidable defender of the kingdom.",
             "images" : ["enter images"]
           },
           "nito" : {
             "id" : "nito",
             "name" : "Gravelord Nito",
-            "lore" : "Hello",
+            "lore" : "One of the four holders of the First Flame's lord souls was the formidable Nito, a creature of death and despair. With his mastery of dark arts and infection, Nito allied himself with Lord Gwyn and the Witch of Izalith to defeat the ancient dragons and establish their dominance. Following the war, Nito retreated back into the catacombs, where he first resided, and took on the task of administering death itself with his unparalleled power.",
             "images" : ["enter images"]
           },
           "witch" : {
             "id" : "witch",
             "name" : "The Witch of Izalith",
-            "lore" : "Hello",
+            "lore" : "As one of the four holders of the First Flame's lord souls, the Witch of Izalith was a powerful shaman who wielded soul power to create formidable fire magic. Her underground civilization revolved around flame and she shared her knowledge and power among her seven daughters. She formed an alliance with Lord Gwyn and Nito to fight the ancient dragons, engulfing them in waves of flame and chaos to seize control of the surface. When the First Flame started to fade, the Witch and her daughters attempted to create their own, but unfortunately, they failed and instead created the Flame of Chaos, unleashing demons that transformed her daughters, her civilians, and herself into grotesque beings of flame.",
             "images" : ["enter images"]
           },
           "seath" : {
             "id" : "seath",
             "name" : "Seath The Scaleless",
-            "lore" : "Hello",
+            "lore" : "Seath the Scaleless, true to his name, had no scales, which made him envious of his own kind. He chose to betray his fellow dragons in the ancient war and joined forces with the three figures of Flame, fighting alongside them. In return, Gwyn rewarded him with a shard of his lord soul and the construction of Seath's grand archive. Seath's relentless pursuit for immortality led him to madness as he plunged deeper into his research.",
             "images" : ["enter images"]
           },
           "kings" : {
             "id" : "kings",
             "name" : "The Four Kings",
-            "lore" : "Hello",
+            "lore" : "The Four Kings were once mere leaders of human countries, but thanks to Gwyn, they were granted the prestigious titles of King. Gwyn rewarded them with a fragment of his lord soul and gave them the opportunity to construct their very own Kingdom, New Londo. However, after Gwyn’s ultimate sacrifice, the Four Kings turned towards the power of the dark and adapted their armies to do the same, becoming an immense threat to all the surrounding kingdoms.",
             "images" : ["enter images"]
           }, 
           "knight" : {
             "id" : "knight",
             "name" : "Knight Artorias",
-            "lore" : "Hello",
+            "lore" : "Sir Artorias was an exceptionally skilled knight who earned the trust of Lord Gwyn. He fought alongside his lord in the ancient dragon war and proved his worth on the battlefield. After Lord Gwyn's selfless sacrifice, Artorias was entrusted with the daunting task of vanquishing the Abyss - a dark realm that threatened to engulf the world. Despite the dangers, Artorias accepted the challenge and was granted a special ring that enabled him to brave the horrors of the Abyss. He fought valiantly against the abyssal creatures, but his encounter with the monstrous Manus proved to be his undoing. Sadly, Artorias was overwhelmed by the corrupting influence of the Abyss, and his fate was sealed forever.",
             "images" : ["enter images"]
           },
           "manus" : {
             "id" : "manus",
             "name" : "Manus, Father of the Abyss",
-            "lore" : "Hello",
+            "lore" : "Manus possessed immense soul power and was resurrected from death. He was buried with a pendant that held great value to him, but he later discovered that the royal family of the country he was buried in had stolen it. This made Manus furious, and he transformed into a terrifying beast, leading to the opening of an Abyss realm. Knight Artorias, in his mission to dispel darkness, fought Manus and succeeded in injuring him. However, this caused Artorias to become corrupt and ultimately led to his downfall.",
             "images" : ["enter images"]
           }, 
           "gwyn" : {
             "id" : "gwyn",
             "name" : "Lord Gwyn",
-            "lore" : "Hello",
+            "lore" : "Lord Gwyn was one of the four powerful beings who held the lord souls. He played a vital role in the ancient dragon war and was allied with Nito and the Witch of Izalith. Together, they defeated the ancient dragons and dominated the surface world. However, as time passed, the First Flame began to fade, and Gwyn, fearing the darkness and the loss of his power, selflessly sacrificed himself to extend the flame's duration. He became a mere husk of himself, left to guard the First Flame for eternity.",
             "images" : ["enter images"]
           }
         }
