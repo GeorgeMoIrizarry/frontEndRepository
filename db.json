@@ -117,19 +117,19 @@
           {
             "id" : "nashandra",
             "name" : "Queen Nashandra",
-            "lore" : "Hello",
+            "lore" : "Queen Nashandra, the powerful and cunning ruler of Drangelic castle, was also a fragment of the Father of the Abyss, Manus. Her unwavering determination to obtain the First Flame led her to aid her husband King Vendrick in his conquests and foresight, allowing him to defeat an opposing force of giants and claim their soul strength for the castle and himself. However, when Vendrick failed to link the First Flame, Queen Nashandra took matters into her own hands and sought out another strong enough to link the Flame, so that she could finally absorb its power and fulfill her ultimate goal.",
             "images" : ["enter images"]
           },
           {
             "id" : "king",
             "name" : "King Vendrick",
-            "lore" : "Hello",
+            "lore" : "King Vendrick of Drangelic Castle was a true leader who led his armies with a philosophy of pure strength. He was warned of a country of Giants that would eventually attack his land, coming from Nashandra, but he did not falter. With the aid of his brother, Aldia, and his Queen Nashandra, Vendrick was able to destroy the giants and claim their soul strength to build his kingdom. Even when the Giants retaliated years later and attacked Drangleic, Vendrick was able to defeat them once again. However, the First Flame started to fade, weakening soul power. When the time came for King Vendrick to link the First Flame using the Throne of Want, he came to realize Queen Nashadra’s true identity. Despite being devastated, Vendrick employed torchless guardians to guard the outside of the throne room and locked himself away, hiding his immense soul power.",
             "images" : ["enter images"]
           },
           {
             "id" : "aldria",
             "name" : "Aldia, Scholar of the First Sin",
-            "lore" : "Hello",
+            "lore" : "Aldia, the lesser known of the two brothers, preferred to remain in seclusion within his manor while his brother, Vendrick, reigned over the land. With a deep interest in the topics of souls and life, Aldia conducted numerous experiments on the subjects of the castle, though these often resulted in the subjects transforming into horrid creatures. When Vendrick was tasked with linking the First Flame to halt the spread of the Abyss curse, he turned to Aldia for assistance. Despite his best efforts, Aldia failed in his attempts and instead transformed himself into a monstrous beast, engulfed in flames and wood.",
             "images" : ["enter images"]
           }
         ]
@@ -142,61 +142,61 @@
           {
             "id" : "ashen",
             "name" : "The Ashen One",
-            "lore" : "Hello",
+            "lore" : "Throughout history, countless have attempted to link the First Flame, only to turn into ash due to their lack of soul power. However, this time, there is hope. The flame is fading, and you have been chosen to find the one who can extend the Age of Fire. With your unwavering determination and skills, you will seek out the individual who can become the next sacrifice to link the flame. The ringing of the Bells of Awakening signifies the start of your journey, and you will not rest until you have made the final decision of either letting the flame die out or reigniting it to extend the Age of Fire. Trust in yourself, for you are the Ashen One. ",
             "images" : ["enter images"]
           },
           {
             "id" : "watchers",
             "name" : "The Abyss Watchers",
-            "lore" : "Hello",
+            "lore" : "The Abyss Watchers are a group of skilled fighters who have taken up the mantle of Sir Artorias to combat the Abyss. By studying Artorias’ fighting techniques, they have been able to mercilessly battle against the creatures of the Abyss and amass great soul power. Faced with the threat of the Abyss spreading further, they have chosen to extend the flame, just as past Flame linkers did. However, like their predecessors, they have discovered that this approach only suppresses the Abyss corruption, rather than eradicating it entirely. Despite their best efforts to eradicate the Abyss, it continues to spread and corrupt. Awakened by the Awakening Bells the Abyss Watchers were easily corrupted by the Abyss, resulting in constant in-fighting.",
             "images" : ["enter images"]
           }, 
           {
             "id" : "yhorm",
             "name" : "Yhorm The Giant",
-            "lore" : "Hello",
+            "lore" : "Yhorm the Giant, a powerful warrior and leader, was approached by the acting king of the land to take charge of the Profaned Capital, a human-inhabited area. Despite sensing the humans' distrust towards him, Yhorm decided to build two massive swords to slay giants and gave one to the humans as a token of good faith. However, when the witches in Profaned Capital created the Profaned Flame - an everlasting flame fueled by the Abyss and the fading of the First Flame - the humans were incinerated as the flame targeted them. Undeterred, Yhorm resolved to link the First Flame himself, but not before entrusting the second giant-slaying sword to his old friend, Siegward of Catarina. Yhorm made Siegward promise to slay him if he were ever to be resurrected and corrupted.",
             "images" : ["enter images"]
           },
           {
             "id" : "aldritch",
             "name" : "Aldrich, Devourer of Gods",
-            "lore" : "Hello",
+            "lore" : "On the surface, Aldrich, Devourer of Gods, was a cleric and a pious man following the Way of the White, the main religion present in his home Irithyll of Boreal Valley but behind closed doors, he was a depraved creature that cannibalizes and tortures his fellow companions. Due to the events of a coup performed on the leader of the Way of the White, led by Pontiff Sulyvahn, aided by Aldrich, the church ranks were corrupted by greed and power, allowing Aldrich to do whatever he pleased. Using his rank he would convince followers to “sacrifice” themselves to him, just so he can feast on more flesh. Over time Aldrich gained immense soul power because of his actions and was elected to link the First Flame to extend the Age of Fire.",
             "images" : ["enter images"]
           },
           {
             "id" : "ludleth",
             "name" : "Ludleth the Exciled",
-            "lore" : "Hello",
+            "lore" : "Despite the limited information available on Ludleth of Courland, it is a fact that he was a proficient scholar of the transposing arts. Despite his frail and small physique, Ludleth possessed immense soul strength due to his studies. Unfortunately, he was exiled from his homeland as his research was deemed taboo at the time. It is widely believed that Ludleth linked First Flame simply to have some form of validation in his life.",
             "images" : ["enter images"]
           },
           {
             "id" : "lothric",
             "name" : "Lothric and Lorian",
-            "lore" : "Hello",
+            "lore" : "Prince Lothric was born with a purpose - to become the next Lord of Cinder, an individual with immense strength who can link the First Flame and extend the Age of Fire. This was the destiny assigned to him by the King and Queen of Lothric, to ensure that the Lothric Kingdom remains in the history books. However, he was born sickly and frail, but his older brother Lorian was powerful. To counter this, King Ocerios forcefully bound the soul of Lothric with Lorian's, giving Lothric's soul immense strength. When Lothric realized that sacrificing his own body would result in Lorian's death as well, he refused, causing the Bells of Awakening to ring. This awakened past Lords of Cinder, tasked with finding a new Lord. However, for some lords, this backfired as some were corrupted by the Abyss, causing them to wreak havoc around the lands instead.",
             "images" : ["enter images"]
           },
           {
             "id" : "cinder",
             "name" : "Soul of Cinder",
-            "lore" : "Hello",
+            "lore" : "As time passed, only the most valiant and powerful warriors were deemed worthy of linking the First Flame, and thus they became the revered Lords of Cinder. Their souls were all stored within the First Flame, eventually giving rise to the formidable Soul of Cinder. This being was created from the amalgamation of these formidable souls, and its sole purpose was to protect the First Flame, serving as the ultimate test of strength for any aspiring Lord of Cinder.",
             "images" : ["enter images"]
           },
           {
             "id" : "gael",
             "name" : "Slave Knight Gael",
-            "lore" : "Hello",
+            "lore" : "The legendary Slave Knight Gael was once a slave knight, a knight who worked for a kingdom that has long been forgotten. He found himself in the Painted World of Ariandel, a world for souls and beings that were unwanted. While there, he befriended the Painter, a girl who had the power to create an entire world on her own. The world had to be burned down, and a new one had to take its place, as foretold by a prophecy. However, Sister Friede, a failed Lord of Cinder, wanted the world to die out slowly, which prevented the prophecy from being fulfilled. Gael then sought the help of the Ashen One to defeat Friede, and as a result, the Painter was able to create a new world. Gael's next mission was to put an end to the repeated prophecy, which was caused by the Painter's inability to finish the world due to the absence of the Dark Soul, a lord soul that the pygmies hold in fragments. Gael spent centuries defeating thousands of pygmies and absorbing their souls, leading to his eventual corruption. The Ashen One was able to complete Gael's mission by defeating him and returning the immense Dark Soul fragments that Gael had to the Painter.",
             "images" : ["enter images"]
           },
           {
             "id" : "nameless",
             "name" : "The Nameless King",
-            "lore" : "Hello",
+            "lore" : "The Nameless King, the first son of Lord Gwyn, was a skilled warrior who wielded a powerful swordspear and lightning. He was renowned for his strength in the ancient dragon war, where he single-handedly defeated countless dragons. However, beneath his exterior of a mighty ruler, he developed a compassionate side towards the dragons, causing him to distance himself from his father's kingdom, Anor Londo. After Lord Gwyn's self-sacrifice, the Nameless King took over the throne and continued his father's legacy by searching for an undead powerful enough to link the flames. But due to unforeseen events, such as the collapse of New Londo and Oolacile, he left the throne and allied himself with the ancient dragons, a decision so grave that his name was erased from history books and his worship statues were destroyed. The Nameless King resided in Archdragon Peak, where he befriended a drake and hunted down those who fought against the last remaining descendants of the ancient dragons.",
             "images" : ["enter images"]
           },
           {
             "id" : "midir",
             "name" : "Darkeater Midir",
-            "lore" : "Hello",
+            "lore" : "Legend has it that Darkeater Midir was personally trained by the Nameless King to wage a relentless war against the Abyss. The driving force behind this training was the deep-seated fear that Lord Gwyn had instilled in the Nameless King. Midir, being immortal, dedicated centuries of his life to fighting and annihilating the Abyssal creatures. As time went by, however, he too fell prey to the corruption of the Abyss, as had happened to many other warriors before him. Eventually, black crystals began to form on his back, marking the onset of the dragon's decline.",
             "images" : ["enter images"]
           }
         ]
