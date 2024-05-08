@@ -3,25 +3,208 @@
       {
         "id": "DS1",
         "heading": "Dark Souls I",
-        "arrayOfImages": "https://placehold.co/150x150.jpg",
-        "arrayOfComments": ["Replace", "this", "data"],
-        "title" : "DSI"
+        "title" : "DSI",
+        "characters" : {
+          "chosen" : {
+            "id" : "chosen",
+            "name" : "The Chosen Undead",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "ornstein" : {
+            "id" : "ornstein",
+            "name" : "Dragon Slayer Ornstein",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }, 
+          "smough" : {
+            "id" : "smough",
+            "name" : "Executioner Smough",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "nito" : {
+            "id" : "nito",
+            "name" : "Gravelord Nito",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "witch" : {
+            "id" : "witch",
+            "name" : "The Witch of Izalith",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "seath" : {
+            "id" : "seath",
+            "name" : "Seath The Scaleless",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "kings" : {
+            "id" : "kings",
+            "name" : "The Four Kings",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }, 
+          "knight" : {
+            "id" : "knight",
+            "name" : "Knight Artorias",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "manus" : {
+            "id" : "manus",
+            "name" : "Manus, Father of the Abyss",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }, 
+          "gwyn" : {
+            "id" : "gwyn",
+            "name" : "Lord Gwyn",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }
+        }
       },
       {
         "id": "DS2",
         "heading": "Dark Souls II",
-        "arrayOfImages": "https://placehold.co/150x150.jpg",
-        "arrayOfComments": ["do an object within this array so comments can be tied down to specific characters"],
-        "title" : "DSII"
+        "title" : "DSII",
+        "characters" : {
+          "bearer" : {
+            "id" : "bearer",
+            "name" : "Bearer of the Curse",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }, 
+          "rotten" : {
+            "id" : "rotten",
+            "name" : "The Rotten",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "sinner" : {
+            "id" : "sinner",
+            "name" : "The Lost Sinner",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "ironKing" : {
+            "id" : "ironKing",
+            "name" : "Old Iron King",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "freyja" : {
+            "id" : "freyja",
+            "name" : "The Duke's Dear Freyja",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "watcher" : {
+            "id" : "watcher",
+            "name" : "Throne Watcher",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "defender" : {
+            "id" : "defender",
+            "name" : "Throne Defender",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "nashandra" : {
+            "id" : "nashandra",
+            "name" : "Queen Nashandra",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "king" : {
+            "id" : "king",
+            "name" : "King Vendrick",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "aldia" : {
+            "id" : "aldria",
+            "name" : "Aldia, Scholar of the First Sin",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }
+        }
       },
       {
         "id": "DS3",
         "heading": "Dark Souls III",
-        "arrayOfImages": "https://placehold.co/150x150.jpg",
-        "arrayOfComments": ["Replace", "this", "data"],
-        "title" : "DSIII"
+        "title" : "DSIII",
+        "characters" : {
+          "ashen" : {
+            "id" : "ashen",
+            "name" : "The Ashen One",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "watchers" : {
+            "id" : "watchers",
+            "name" : "The Abyss Watchers",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }, 
+          "yhorm" : {
+            "id" : "yhorm",
+            "name" : "Yhorm The Giant",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "aldrich" : {
+            "id" : "aldritch",
+            "name" : "Aldrich, Devourer of Gods",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "ludleth" : {
+            "id" : "ludleth",
+            "name" : "Ludleth the Exciled",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "lothric" : {
+            "id" : "lothric",
+            "name" : "Lothric and Lorian",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "cinder" : {
+            "id" : "cinder",
+            "name" : "Soul of Cinder",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "gael" : {
+            "id" : "gael",
+            "name" : "Slave Knight Gael",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "nameless" : {
+            "id" : "nameless",
+            "name" : "The Nameless King",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          },
+          "midir" : {
+            "id" : "midir",
+            "name" : "Darkeater Midir",
+            "lore" : "Hello",
+            "images" : ["enter images"]
+          }
+        }
       }
      
     ]
     
   }
+
+
+

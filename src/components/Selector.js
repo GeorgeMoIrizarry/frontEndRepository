@@ -1,7 +1,8 @@
+import { Link } from "react-router-dom"
 function Selector() {
     return (
         <div id="selector">
-           <h1 id='test'>Creation Center!</h1>
+           <Link id='test' to="/creation">Creation Center!</Link>
 
         </div>
     )
