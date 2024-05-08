@@ -323,7 +323,7 @@ a.projectLink{
 }
 #selector{
   border-style: solid;
-  border-color: #fff;
+  border-color: #f35252;
   border-radius: 10px;
   height: 430px;
   width: 280px;
@@ -339,4 +339,12 @@ a.projectLink{
   right: 45px;
   font-size: 25px;
 
+}
+.options {
+  position: absolute;
+  top: 50px;
+  background-color: #cf090f;
+  font-size: 16px;
+  font-family: darksoulfont;
+  font-weight: bolder;
 }
