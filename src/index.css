@@ -326,13 +326,15 @@ a.projectLink{
   border-color: #fff;
   border-radius: 10px;
   height: 430px;
-  width: 200px;
+  width: 280px;
   position: relative;
   top: 100px;
   display: inline-block;
 }
 #test{
   position:absolute;
-  
-  bottom: 10px;
+  color: antiquewhite;
+  top: 10px;
+  font-family: darksoulfont;
+  right: 15px;
 }

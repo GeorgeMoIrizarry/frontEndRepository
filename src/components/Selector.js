@@ -1,7 +1,7 @@
 function Selector() {
     return (
         <div id="selector">
-           <h1 id='test'>hELLO</h1>
+           <h1 id='test'>Creation Center!</h1>
 
         </div>
     )
