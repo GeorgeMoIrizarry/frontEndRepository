@@ -22,6 +22,7 @@ html, body {
   margin: 0;
   padding: 0;
 }  
+
 #container{
   background-image: url('./components/images/HomeWallpaper.jpeg');
   position : fixed;
@@ -298,7 +299,7 @@ a.projectLink{
   text-align: center;
   font-family: darksoulfont;
   font-size: 60px;
-  top: 25px;
+  top: 7px;
   left: 500px;
 }
 .headingLink{
@@ -319,4 +320,23 @@ a.projectLink{
 }
 #headingDS3{
   color : #ff474c;
+}
+#selector{
+  border-style: solid;
+  border-color: #fff;
+  border-radius: 10px;
+  height: 430px;
+  width: 280px;
+  position: relative;
+  top: 100px;
+  display: inline-block;
+}
+#test{
+  position:absolute;
+  color: antiquewhite;
+  top: 10px;
+  font-family: darksoulfont;
+  right: 45px;
+  font-size: 25px;
+
 }
