@@ -105,13 +105,13 @@
           {
             "id" : "watcher",
             "name" : "Throne Watcher",
-            "lore" : "Hello",
+            "lore" : "The Throne Watcher is a mysterious figure about whom very little is known. However, it is widely believed that she and the Throne Defender were the ultimate tests of strength for anyone who wished to claim the Throne of Want. Unfortunately, King Vendrick was unable to complete this challenge, and as a result, the throne room was consumed by darkness, causing both the Watcher and Defender to succumb to the corrupting influence of the Abyss.",
             "images" : ["enter images"]
           },
           {
             "id" : "defender",
             "name" : "Throne Defender",
-            "lore" : "Hello",
+            "lore" : "The Throne Defender is an enigmatic figure who holds his ground in the throne room, where King Vendrick was supposed to sit. His long white beard and cryptic face suggest that he has been guarding the room for a prolonged period, and his identity and purpose remain a mystery. According to popular belief, the Throne Defender and the Throne Watcher serve as a challenge for those who aspire to claim the Throne of Want, testing the strength of their character and willpower.",
             "images" : ["enter images"]
           },
           {
