@@ -38,7 +38,7 @@ function ProjectCards( {setNum, numForBck}) {
                     your ultimate goal is to vanquish the fallen king and restore light to the fallen kingdom.</p>
                     <a className="projectLink" href="https://www.playstation.com/en-us/games/demons-souls/">Buy Now...</a>
                 </div>
-    let c
+    
     function handleDisplay() {
         if(numForBck == 0) {
             return setNum(0)

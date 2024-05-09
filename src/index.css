@@ -323,12 +323,12 @@ a.projectLink{
 }
 #selector{
   border-style: solid;
-  border-color: #fff;
+  border-color: #f35252;
   border-radius: 10px;
-  height: 430px;
+  height: 370px;
   width: 280px;
   position: relative;
-  top: 100px;
+  top: 75px;
   display: inline-block;
 }
 #test{
@@ -339,4 +339,57 @@ a.projectLink{
   right: 45px;
   font-size: 25px;
 
+}
+.options {
+  position: absolute;
+  top: 50px;
+  background-color: #cf090f;
+  font-size: 16px;
+  font-family: darksoulfont;
+  font-weight: bolder;
+}
+#dsBody{
+  border-style: solid;
+  border-color: #f35252;
+  border-radius: 10px;
+  width: 1050px;
+  height: 450px;
+  position: relative; 
+  left: 300px;
+  top: -305px;
+}
+#textSection{
+  width: 350px;
+  border-right: #f35252;
+  border-style: solid;
+  height: 450px;
+}
+.characterTitle{
+  text-align: center;
+  font-family: darksoulfont;
+  color: white;
+}
+.characterLore{
+  font-family: darksoulfont;
+  color: white;
+  text-align: center;
+}
+#imgArea{
+  position: absolute;
+  width: 690px;
+  height: 450px;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.characterImages{
+  transform: scale(1.6);
+  /* position: absolute;
+  top: -200px;
+  right: 20px */
+  height: 50%;
+  max-width: 50%;
+  
 }
