@@ -1,8 +1,8 @@
-import image from "./images/bearerOfTheCurse.png"
-function ImageSect() {
+
+function ImageSect({newObj}) {
     return (
         <div id="imgArea">
-            <img src={image} className="characterImages"></img>
+            <img src={newObj.images}className="characterImages"></img>
         </div>
     )
 }

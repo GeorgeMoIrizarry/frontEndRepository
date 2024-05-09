@@ -9,61 +9,61 @@
             "id" : "chosen",
             "name" : "The Chosen Undead",
             "lore" : "In ancient times, the world was under the rule of powerful dragons. They stood unopposed for a long time until the discovery of the first flame, which contained souls of great power. Four legendary figures harnessed these souls, three of which used this power to defeat the ancient dragons and ushered in the age of fire. The flame brought immense power and prosperity to kingdoms and armies. However, over time, the flame started to deplete, leaving only two choices - to let it fade away, marking the onset of the Age of Dark, or to extend the Age of Flame by sacrificing a chosen one's life. Now, it's your quest, and you have the power to make your own decision. Defeat those who hold the souls of the first flame and choose the path that aligns with your beliefs.",
-            "images" : "./components/images/theChosenUndead.png"
+            "images" : "https://www.superherodb.com/pictures2/portraits/10/050/15205.jpg?v=1684800000"
           },
           {
             "id" : "ornstein",
             "name" : "Dragon Slayer Ornstein",
             "lore" : "Dragon Slayer Ornstein was one of Lord Gwyn's most powerful and trusted knights, renowned for his skills with the great cross spear. He played a crucial role in the war against the ancient dragons, and even as Lord Gwyn made the ultimate sacrifice to extend the age of fire, Ornstein remained steadfast in his loyalty by standing guard at his Lord's kingdom in Anor Londo.",
-            "images" : "./components/images/ornstein"
+            "images" : "https://darksouls.wiki.fextralife.com/file/Dark-Souls/tumblr_lxlmomDlzY1qgjlhf.jpg"
           }, 
           {
             "id" : "smough",
             "name" : "Executioner Smough",
             "lore" : "Smough was a powerful knight and executioner who had always dreamt of becoming one of Lord Gwyn's elite knights. Unfortunately, his grotesque pleasure in executing the kingdom's criminals led to his rejection. However, after Lord Gwyn's sacrifice, he was chosen to stand guard at Anor Londo, the kingdom of Lord Gwyn. Whether out of pity or pettiness, he now stands tall as a formidable defender of the kingdom.",
-            "images" : "./components/images/smough.png"
+            "images" : "https://darksouls.wiki.fextralife.com/file/Dark-Souls/smough.jpg"
           },
           {
             "id" : "nito",
             "name" : "Gravelord Nito",
             "lore" : "One of the four holders of the First Flame's lord souls was the formidable Nito, a creature of death and despair. With his mastery of dark arts and infection, Nito allied himself with Lord Gwyn and the Witch of Izalith to defeat the ancient dragons and establish their dominance. Following the war, Nito retreated back into the catacombs, where he first resided, and took on the task of administering death itself with his unparalleled power.",
-            "images" : "./components/images/gravelordNito.png"
+            "images" : "https://darksouls.wdfiles.com/local--files/npcs/gravelord-nito-large.jpg"
           },
           {
             "id" : "witch",
             "name" : "The Witch of Izalith",
             "lore" : "As one of the four holders of the First Flame's lord souls, the Witch of Izalith was a powerful shaman who wielded soul power to create formidable fire magic. Her underground civilization revolved around flame and she shared her knowledge and power among her seven daughters. She formed an alliance with Lord Gwyn and Nito to fight the ancient dragons, engulfing them in waves of flame and chaos to seize control of the surface. When the First Flame started to fade, the Witch and her daughters attempted to create their own, but unfortunately, they failed and instead created the Flame of Chaos, unleashing demons that transformed her daughters, her civilians, and herself into grotesque beings of flame.",
-            "images" : "./components/images/"
+            "images" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/289a0c86-3a3e-4095-b3df-aa736b66b81e/d8jte06-f00bf9b4-c0ae-4c34-8c90-0fa2cde87052.jpg/v1/fill/w_1280,h_720,q_75,strp/the_witch_of_izalith_by_jaqenart_d8jte06-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjg5YTBjODYtM2EzZS00MDk1LWIzZGYtYWE3MzZiNjZiODFlXC9kOGp0ZTA2LWYwMGJmOWI0LWMwYWUtNGMzNC04YzkwLTBmYTJjZGU4NzA1Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QgqepCPErh4jLp-5u8NBAZ1OB0xRL1BOQ7k2tBAeubs"
           },
           {
             "id" : "seath",
             "name" : "Seath The Scaleless",
             "lore" : "Seath the Scaleless, true to his name, had no scales, which made him envious of his own kind. He chose to betray his fellow dragons in the ancient war and joined forces with the three figures of Flame, fighting alongside them. In return, Gwyn rewarded him with a shard of his lord soul and the construction of Seath's grand archive. Seath's relentless pursuit for immortality led him to madness as he plunged deeper into his research.",
-            "images" : "./components/images/witch.png"
+            "images" : "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/seath-scaleless-feature-header.jpg"
           },
           {
             "id" : "kings",
             "name" : "The Four Kings",
             "lore" : "The Four Kings were once mere leaders of human countries, but thanks to Gwyn, they were granted the prestigious titles of King. Gwyn rewarded them with a fragment of his lord soul and gave them the opportunity to construct their very own Kingdom, New Londo. However, after Gwyn’s ultimate sacrifice, the Four Kings turned towards the power of the dark and adapted their armies to do the same, becoming an immense threat to all the surrounding kingdoms.",
-            "images" : "./components/images/fourKingModel.png"
+            "images" : "https://steamuserimages-a.akamaihd.net/ugc/942838965121233936/3DC052B07862C8C0E835C92CD14DB3E02B962CEA/?imw=512&imh=303&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
           }, 
           {
             "id" : "knight",
             "name" : "Knight Artorias",
             "lore" : "Sir Artorias was an exceptionally skilled knight who earned the trust of Lord Gwyn. He fought alongside his lord in the ancient dragon war and proved his worth on the battlefield. After Lord Gwyn's selfless sacrifice, Artorias was entrusted with the daunting task of vanquishing the Abyss - a dark realm that threatened to engulf the world. Despite the dangers, Artorias accepted the challenge and was granted a special ring that enabled him to brave the horrors of the Abyss. He fought valiantly against the abyssal creatures, but his encounter with the monstrous Manus proved to be his undoing. Sadly, Artorias was overwhelmed by the corrupting influence of the Abyss, and his fate was sealed forever.",
-            "images" : "./components/images/knightAtorias.png"
+            "images" : "https://darksouls.wiki.fextralife.com/file/Dark-Souls/hd_artorias_fan_art.jpg?v=1529079881702"
           },
           {
             "id" : "manus",
             "name" : "Manus, Father of the Abyss",
             "lore" : "Manus possessed immense soul power and was resurrected from death. He was buried with a pendant that held great value to him, but he later discovered that the royal family of the country he was buried in had stolen it. This made Manus furious, and he transformed into a terrifying beast, leading to the opening of an Abyss realm. Knight Artorias, in his mission to dispel darkness, fought Manus and succeeded in injuring him. However, this caused Artorias to become corrupt and ultimately led to his downfall.",
-            "images" : "./components/images/manus.png"
+            "images" : "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Charge_manus.jpg"
           }, 
           {
             "id" : "gwyn",
             "name" : "Lord Gwyn",
             "lore" : "Lord Gwyn was one of the four powerful beings who held the lord souls. He played a vital role in the ancient dragon war and was allied with Nito and the Witch of Izalith. Together, they defeated the ancient dragons and dominated the surface world. However, as time passed, the First Flame began to fade, and Gwyn, fearing the darkness and the loss of his power, selflessly sacrificed himself to extend the flame's duration. He became a mere husk of himself, left to guard the First Flame for eternity.",
-            "images" : "./components/images/lordGwyn.png"
+            "images" : "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Gwyn_Lord_of_Sunlight.jpg?v=1528544832709"
           }
         ]
       },
@@ -76,61 +76,61 @@
             "id" : "bearer",
             "name" : "Bearer of the Curse",
             "lore" : "In a world set centuries after the first Age of Fire, you, an undead, are gradually becoming hollow due to a curse inflicted upon humans. As time passes, you fear losing your sense of self and growing insane. To avoid this fate, you decide to embark on a journey to Drangelic Castle, which is rumored to hold the cure to this condition. Driven by determination, you will do whatever it takes to find this cure and save yourself from a fate worse than death.",
-            "images" : "./components/images/bearerOfTheCurse.png"
+            "images" : "https://cdnb.artstation.com/p/assets/images/images/041/149/467/large/hyoung_ju-nam-armor-01.jpg?1630912855"
           }, 
           {
             "id" : "rotten",
             "name" : "The Rotten",
             "lore" : "The Rotten, once a respected king, is an abomination of merged hollows held together by flesh and chains. This monstrous creature possesses immense soul strength. In the past, he was known as King Gryth of Shulva who led the worship of an ancient dragon, Sinh, one of the last of its kind. His fame drew raiders who aimed to steal Sinh's rare blood, leading to Gryth's death. But, Gryth was not gone forever. He was resurrected as the Rotten, an amalgamation of dead hollows who gather their strength by merging with defeated foes.",
-            "images" : "./components/images/theRotten.jpg"
+            "images" : "https://lokeysouls.com/wp-content/uploads/2020/08/rottenconcept-1.jpg?w=1024"
           },
           {
             "id" : "sinner",
             "name" : "The Lost Sinner",
             "lore" : "The Lost Sinner is an undead who has been chained up for years, and her crimes have been lost to time. However, it is widely believed that she created a new generation of demons in an attempt to replicate the power of the First Flame. These demons went on to ravage the kingdom in which she resided. Overwhelmed with shame and guilt, the Lost Sinner chose to imprison and torture herself as punishment for her actions.",
-            "images" : "./components/images/theLostSinner.jpg"
+            "images" : "https://darksouls2.wdfiles.com/local--files/image-set-enemies:the-lost-sinner/The_Lost_Sinner.png"
           },
           {
             "id" : "ironKing",
             "name" : "Old Iron King",
             "lore" : "The Old Iron King once ruled over a small kingdom of little value. However, he discovered a miraculous method of producing iron, which was so closely guarded that he died with it. Using this knowledge, he built a vast kingdom entirely made of iron and created iron demons known as Smelter Demons, using chaos flames to fight alongside his army. Over time, the king began to suffer from the curse, and eventually went mad. As his kingdom grew too heavy, it began to sink into the ground. Sensing weakness, the Smelter Demon that the iron king had constructed killed him and took over the sunken kingdom. In the presence of the chaos flame, the Old Iron King then resurrected as a horrid demon.",
-            "images" : "./components/images/oldIronKing.jpg"
+            "images" : "https://darksouls2.wdfiles.com/local--files/image-set-enemies:old-iron-king/Old_Iron_King.png"
           },
           {
             "id" : "freyja",
             "name" : "The Duke's Dear Freyja",
             "lore" : "In the land where she resides, The Duke's Dear Freyja was once a pet spider of a duke. However, after becoming the host of an ancient entity called Writhing, formally an entity that took place in the ancient dragon Seath, she grew to an enormous size and gathered immense power over the years by gathering the souls of those she killed.",
-            "images" : "./components/images/freyja.jpg"
+            "images" : "https://lokeysouls.com/wp-content/uploads/2020/09/freyjaambush.jpg"
           },
           {
             "id" : "watcher",
             "name" : "Throne Watcher",
             "lore" : "The Throne Watcher is a mysterious figure about whom very little is known. However, it is widely believed that she and the Throne Defender were the ultimate tests of strength for anyone who wished to claim the Throne of Want. Unfortunately, King Vendrick was unable to complete this challenge, and as a result, the throne room was consumed by darkness, causing both the Watcher and Defender to succumb to the corrupting influence of the Abyss.",
-            "images" : "./components/images/useForBothWatcherDefender.jpg"
+            "images" : "https://darksouls2.wdfiles.com/local--files/image-set-enemies:throne-watcher-and-defender/Throne_Watcher_and_Defender.png"
           },
           {
             "id" : "defender",
             "name" : "Throne Defender",
             "lore" : "The Throne Defender is an enigmatic figure who holds his ground in the throne room, where King Vendrick was supposed to sit. His long white beard and cryptic face suggest that he has been guarding the room for a prolonged period, and his identity and purpose remain a mystery. According to popular belief, the Throne Defender and the Throne Watcher serve as a challenge for those who aspire to claim the Throne of Want, testing the strength of their character and willpower.",
-            "images" : "./components/images/useForBothWatcherDefender.jpg"
+            "images" : "https://darksouls2.wdfiles.com/local--files/image-set-enemies:throne-watcher-and-defender/Throne_Watcher_and_Defender.png"
           },
           {
             "id" : "nashandra",
             "name" : "Queen Nashandra",
             "lore" : "Queen Nashandra, the powerful and cunning ruler of Drangelic castle, was also a fragment of the Father of the Abyss, Manus. Her unwavering determination to obtain the First Flame led her to aid her husband King Vendrick in his conquests and foresight, allowing him to defeat an opposing force of giants and claim their soul strength for the castle and himself. However, when Vendrick failed to link the First Flame, Queen Nashandra took matters into her own hands and sought out another strong enough to link the Flame, so that she could finally absorb its power and fulfill her ultimate goal.",
-            "images" : "./components/images/nashandra.png"
+            "images" : "https://darksouls2.wdfiles.com/local--files/image-set-enemies:nashandra/Nashandra.png"
           },
           {
             "id" : "king",
             "name" : "King Vendrick",
             "lore" : "King Vendrick of Drangelic Castle was a true leader who led his armies with a philosophy of pure strength. He was warned of a country of Giants that would eventually attack his land, coming from Nashandra, but he did not falter. With the aid of his brother, Aldia, and his Queen Nashandra, Vendrick was able to destroy the giants and claim their soul strength to build his kingdom. Even when the Giants retaliated years later and attacked Drangleic, Vendrick was able to defeat them once again. However, the First Flame started to fade, weakening soul power. When the time came for King Vendrick to link the First Flame using the Throne of Want, he came to realize Queen Nashadra’s true identity. Despite being devastated, Vendrick employed torchless guardians to guard the outside of the throne room and locked himself away, hiding his immense soul power.",
-            "images" : "./components/images/kingVendrick.png"
+            "images" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRMCWktZ9joLBtZTEZ8998gNLj5ILWvabgGaNTSGbRyy3uHmRL_ZQJoLuHJoedS9eCh1WBZM-vfZN3QS3bZ_GW4aaKfMx6URqFIienITQad9MfMjlfSQbo6LwcjQMnr1PNCJE38tH1lRg/w1200-h630-p-k-no-nu/ds2-v.jpg"
           },
           {
             "id" : "aldria",
             "name" : "Aldia, Scholar of the First Sin",
             "lore" : "Aldia, the lesser known of the two brothers, preferred to remain in seclusion within his manor while his brother, Vendrick, reigned over the land. With a deep interest in the topics of souls and life, Aldia conducted numerous experiments on the subjects of the castle, though these often resulted in the subjects transforming into horrid creatures. When Vendrick was tasked with linking the First Flame to halt the spread of the Abyss curse, he turned to Aldia for assistance. Despite his best efforts, Aldia failed in his attempts and instead transformed himself into a monstrous beast, engulfed in flames and wood.",
-            "images" : "./components/images/aldia.png"
+            "images" : "https://www.giantbomb.com/a/uploads/scale_medium/21/214346/2832722-8692049957-maxre.jpg"
           }
         ]
       },
@@ -143,61 +143,61 @@
             "id" : "ashen",
             "name" : "The Ashen One",
             "lore" : "Throughout history, countless have attempted to link the First Flame, only to turn into ash due to their lack of soul power. However, this time, there is hope. The flame is fading, and you have been chosen to find the one who can extend the Age of Fire. With your unwavering determination and skills, you will seek out the individual who can become the next sacrifice to link the flame. The ringing of the Bells of Awakening signifies the start of your journey, and you will not rest until you have made the final decision of either letting the flame die out or reigniting it to extend the Age of Fire. Trust in yourself, for you are the Ashen One. ",
-            "images" : "./components/images/useThisForTheAshenOne.png"
+            "images" : "https://pbs.twimg.com/media/EAwK61SWwAARLrw?format=jpg&name=large"
           },
           {
             "id" : "watchers",
             "name" : "The Abyss Watchers",
             "lore" : "The Abyss Watchers are a group of skilled fighters who have taken up the mantle of Sir Artorias to combat the Abyss. By studying Artorias’ fighting techniques, they have been able to mercilessly battle against the creatures of the Abyss and amass great soul power. Faced with the threat of the Abyss spreading further, they have chosen to extend the flame, just as past Flame linkers did. However, like their predecessors, they have discovered that this approach only suppresses the Abyss corruption, rather than eradicating it entirely. Despite their best efforts to eradicate the Abyss, it continues to spread and corrupt. Awakened by the Awakening Bells the Abyss Watchers were easily corrupted by the Abyss, resulting in constant in-fighting.",
-            "images" : "./components/images/abyssWatchers.png"
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:abyss-watchers/Abyss_Watchers.jpg"
           }, 
           {
             "id" : "yhorm",
             "name" : "Yhorm The Giant",
             "lore" : "Yhorm the Giant, a powerful warrior and leader, was approached by the acting king of the land to take charge of the Profaned Capital, a human-inhabited area. Despite sensing the humans' distrust towards him, Yhorm decided to build two massive swords to slay giants and gave one to the humans as a token of good faith. However, when the witches in Profaned Capital created the Profaned Flame - an everlasting flame fueled by the Abyss and the fading of the First Flame - the humans were incinerated as the flame targeted them. Undeterred, Yhorm resolved to link the First Flame himself, but not before entrusting the second giant-slaying sword to his old friend, Siegward of Catarina. Yhorm made Siegward promise to slay him if he were ever to be resurrected and corrupted.",
-            "images" : "./components/images/yhorm.jpg"
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:yhorm1/Yhorm1.jpg"
           },
           {
             "id" : "aldrich",
             "name" : "Aldrich, Devourer of Gods",
             "lore" : "On the surface, Aldrich, Devourer of Gods, was a cleric and a pious man following the Way of the White, the main religion present in his home Irithyll of Boreal Valley but behind closed doors, he was a depraved creature that cannibalizes and tortures his fellow companions. Due to the events of a coup performed on the leader of the Way of the White, led by Pontiff Sulyvahn, aided by Aldrich, the church ranks were corrupted by greed and power, allowing Aldrich to do whatever he pleased. Using his rank he would convince followers to “sacrifice” themselves to him, just so he can feast on more flesh. Over time Aldrich gained immense soul power because of his actions and was elected to link the First Flame to extend the Age of Fire.",
-            "images" : "./components/images/aldrich.png"
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:aldrichv1/Aldrichv1.jpg"
           },
           {
             "id" : "ludleth",
             "name" : "Ludleth the Exciled",
             "lore" : "Despite the limited information available on Ludleth of Courland, it is a fact that he was a proficient scholar of the transposing arts. Despite his frail and small physique, Ludleth possessed immense soul strength due to his studies. Unfortunately, he was exiled from his homeland as his research was deemed taboo at the time. It is widely believed that Ludleth linked First Flame simply to have some form of validation in his life.",
-            "images" : "./components/images/ludleth.jpg"
+            "images" : "https://darksouls3.wdfiles.com/local--files/npc-image:ludleth/ludleth.jpg"
           },
           {
             "id" : "lothric",
             "name" : "Lothric and Lorian",
             "lore" : "Prince Lothric was born with a purpose - to become the next Lord of Cinder, an individual with immense strength who can link the First Flame and extend the Age of Fire. This was the destiny assigned to him by the King and Queen of Lothric, to ensure that the Lothric Kingdom remains in the history books. However, he was born sickly and frail, but his older brother Lorian was powerful. To counter this, King Ocerios forcefully bound the soul of Lothric with Lorian's, giving Lothric's soul immense strength. When Lothric realized that sacrificing his own body would result in Lorian's death as well, he refused, causing the Bells of Awakening to ring. This awakened past Lords of Cinder, tasked with finding a new Lord. However, for some lords, this backfired as some were corrupted by the Abyss, causing them to wreak havoc around the lands instead.",
-            "images" : "./components/images/lothricandLorian.png"
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:twin-princesv1/Twin_Princesv1.jpg"
           },
           {
             "id" : "cinder",
             "name" : "Soul of Cinder",
             "lore" : "As time passed, only the most valiant and powerful warriors were deemed worthy of linking the First Flame, and thus they became the revered Lords of Cinder. Their souls were all stored within the First Flame, eventually giving rise to the formidable Soul of Cinder. This being was created from the amalgamation of these formidable souls, and its sole purpose was to protect the First Flame, serving as the ultimate test of strength for any aspiring Lord of Cinder.",
-            "images" : "./components/images/ashenOne.jpg"
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:soul-of-cinder-2-2/Soul_of_Cinder_2_2.jpg"
           },
           {
             "id" : "gael",
             "name" : "Slave Knight Gael",
-            "lore" : "The legendary Slave Knight Gael was once a slave knight, a knight who worked for a kingdom that has long been forgotten. He found himself in the Painted World of Ariandel, a world for souls and beings that were unwanted. While there, he befriended the Painter, a girl who had the power to create an entire world on her own. The world had to be burned down, and a new one had to take its place, as foretold by a prophecy. However, Sister Friede, a failed Lord of Cinder, wanted the world to die out slowly, which prevented the prophecy from being fulfilled. Gael then sought the help of the Ashen One to defeat Friede, and as a result, the Painter was able to create a new world. Gael's next mission was to put an end to the repeated prophecy, which was caused by the Painter's inability to finish the world due to the absence of the Dark Soul, a lord soul that the pygmies hold in fragments. Gael spent centuries defeating thousands of pygmies and absorbing their souls, leading to his eventual corruption. The Ashen One was able to complete Gael's mission by defeating him and returning the immense Dark Soul fragments that Gael had to the Painter.",
-            "images" : "./components/images/slaveKnightGael.png"
+            "lore" : "Slave Knight Gael was a knight who found himself in the Painted World of Ariandel where he befriended a girl called the Painter. Together, they created a new world as foretold by a prophecy. However, Sister Friede, a failed Lord of Cinder, prevented the prophecy from being fulfilled. Gael sought the help of the Ashen One to defeat Friede, and as a result, the Painter was able to create a new world. Gael's next mission was to end the repeated prophecy caused by the Painter's inability to finish the world due to the absence of the Dark Soul. He spent centuries defeating thousands of pygmies and absorbing their souls, leading to his eventual corruption. The Ashen One defeated Gael and returned the Dark Soul fragments to the Painter.",
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:slave-knight-gael1/Slave_Knight_Gael1.jpg"
           },
           {
             "id" : "nameless",
             "name" : "The Nameless King",
-            "lore" : "The Nameless King, the first son of Lord Gwyn, was a skilled warrior who wielded a powerful swordspear and lightning. He was renowned for his strength in the ancient dragon war, where he single-handedly defeated countless dragons. However, beneath his exterior of a mighty ruler, he developed a compassionate side towards the dragons, causing him to distance himself from his father's kingdom, Anor Londo. After Lord Gwyn's self-sacrifice, the Nameless King took over the throne and continued his father's legacy by searching for an undead powerful enough to link the flames. But due to unforeseen events, such as the collapse of New Londo and Oolacile, he left the throne and allied himself with the ancient dragons, a decision so grave that his name was erased from history books and his worship statues were destroyed. The Nameless King resided in Archdragon Peak, where he befriended a drake and hunted down those who fought against the last remaining descendants of the ancient dragons.",
-            "images" : "./components/images/namelessKing.jpg"
+            "lore" : "The Nameless King was the eldest son of the first Lord of Cinder, Lord Gwyn. Wielding a swordspear and the power of lightningThe Nameless King, the first son of Lord Gwyn, was a skilled warrior who wielded a powerful swordspear and lightning. He was renowned for his strength in the ancient dragon war, where he single-handedly defeated countless dragons. However, beneath his exterior of a mighty ruler, he developed a compassionate side towards the dragons, causing him to distance himself from his father's kingdom, Anor Londo. After Lord Gwyn's self-sacrifice, the Nameless King took over the throne and continued his father's legacy by searching for an undead powerful ",   
+            "images" : "https://darksouls3.wdfiles.com/local--files/boss-image:king-of-the-storm/King_of_the_Storm.jpg"
           },
           {
             "id" : "midir",
             "name" : "Darkeater Midir",
             "lore" : "Legend has it that Darkeater Midir was personally trained by the Nameless King to wage a relentless war against the Abyss. The driving force behind this training was the deep-seated fear that Lord Gwyn had instilled in the Nameless King. Midir, being immortal, dedicated centuries of his life to fighting and annihilating the Abyssal creatures. As time went by, however, he too fell prey to the corruption of the Abyss, as had happened to many other warriors before him. Eventually, black crystals began to form on his back, marking the onset of the dragon's decline.",
-            "images" : "./components/images/midir.jpg"
+            "images" : "https://darksouls3.wdfiles.com/local--files/enemy-image:darkeater-midir-bridge1/Darkeater_Midir_Bridge1.jpg"
           }
         ]
       }

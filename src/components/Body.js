@@ -1,10 +1,11 @@
 import Text from "./Text"
 import ImageSect from "./ImageSect"
-function Body() {
+function Body({newObj}) {
+    
     return (
         <div id="dsBody">
-            <Text />
-            <ImageSect />
+            <Text newObj={newObj}  />
+            <ImageSect newObj={newObj} />
         </div>
     )
 }
