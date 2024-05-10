@@ -3,7 +3,7 @@ import { useState } from "react"
 function Selector({characters, onSelectChange}) { 
     const [grabbedChara, setCharacter] = useState("")
     
-    const handleSelectChange = (event) => {
+    const handleSelectChange = (event) => { 
         const selectedValue = event.target.value;
         onSelectChange(selectedValue);
     }    
