@@ -393,3 +393,148 @@ a.projectLink{
   max-width: 50%;
   
 }
+#creationPage{
+  background-image : url('./components/images/actualNewCreation.jpg');
+  position : fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#inputContainer{
+  position: relative;
+  border-style: solid;
+  height: 575px;
+  border-color: rgb(39, 39, 39);
+  width: 400px;
+  border-radius: 10px;
+  background-color: rgb(70, 69, 69, .5);
+  left: 20px;
+}
+#creationHeading{
+  text-align: center;
+  font-family: darksoulfont;
+}
+.labels{
+  font-family: darksoulfont; 
+  font-size: 30px;
+  font-weight: bolder;
+  position: relative;
+  left: 7px;
+  color: #960207;
+}
+.inputCreation{
+  background-color: black;
+  color: #ff1e1e;
+  font-family: darksoulfont;
+}
+#userCreationText{
+  width: 300px;
+  height: 25px;
+  position: relative;
+  font-size: 20px;
+}
+#imageCreationText{
+  width: 300px;
+  height: 25px;
+  position: relative;
+  font-size: 20px;
+}
+#loreCreationText{
+  position: relative;
+  height: 150px;
+  resize: none;
+}
+#submitCreation{
+  cursor: pointer;
+  color: #fff;
+  background-color: black;
+  font-family: darksoulfont;
+  position: relative;
+  top: 0px;
+  left: 65px;
+  width: 250px;
+  height: 40px;
+  font-size: 35px;
+  font-weight: lighter;
+}
+#creationSelect{
+  font-family: darksoulfont;
+  position: relative;
+  top: -20px;
+  font-size: 24px;
+  font-weight: bolder;
+  color: #960207;
+  left: 7px;
+}
+#selectsPostion{
+  font-family: darksoulfont;
+  position: relative;
+  left: 50px;
+  background-color: #cf090f;
+  font-size: 16px;
+  font-family: darksoulfont;
+  font-weight: bolder;
+}
+#creationSelection{
+  position: absolute;
+  top: 50px;
+  border-style: solid;
+  width: 300px;
+  height: 250px;
+  left: 425px;
+  border-color: gray;
+  background-color: rgb(70, 69, 69, .5);
+  border-left: #960207;
+  border-bottom: #960207;
+}
+#creationOptions{
+  background-color: black;
+  font-size: 16px;
+  font-family: darksoulfont;
+  font-weight: bolder;
+  color: #fff;
+}
+#selectHeadingCreation{
+  font-family: darksoulfont;
+  font-weight: bolder;
+}
+#creationTextContainer{
+  position: absolute;
+  width: 300px;
+  height: 330px;
+  border-style: solid;
+  top: 300px;
+  left: 425px;
+  border-color: gray;
+  background-color: rgb(70, 69, 69, .5);
+  border-left: #960207;
+  border-bottom: #960207;
+  border-top: #960207;
+}
+#creationLoreHeading{
+  font-family: darksoulfont;
+  font-weight: bolder;
+  text-align: center;
+}
+#creationLoreText{
+  font-family: darksoulfont;
+  font-weight: bolder;
+  text-align: center;
+}
+#creationImage{ 
+  position:absolute;
+  width: 650px;
+  height: 575px;
+  top: 50px;
+  right: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#creationImages{
+  height: 50%;
+  max-width: 50%;
+  transform: scale(1.5);
+}
